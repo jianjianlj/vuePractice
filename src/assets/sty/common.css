@@ -1,0 +1,72 @@
+.flex-XC {
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    -webkit-align-items: center;
+    -webkit-justify-content: space-between
+}
+.flex-X {
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    align-items: center;
+    -webkit-align-items: center;
+}
+
+.flex-C {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+.flex-left-C{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+}
+.flex-left {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+}
+.flex-right {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+}
+.flex-right-Y {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+}
+.flex-YC {
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    justify-content: center;
+    -webkit-justify-content: center;
+}
+.flex-Y {
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
